@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Firmware build output (PlatformIO)
+.pio/
